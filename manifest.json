@@ -1,6 +1,10 @@
 {
-  "id": "riftbreaker-template",
-  "authors": ["Er4z0r"],
-  "url": "https://github.com/Er4z0r321/amp-templates",
-  "prefix": "TheRiftbreakerDedicatedServer"
+    "id": "ad382a0d-6700-4dc6-9fb1-61e9e2848900",
+    "authors": [
+        "Er4z0r - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/Er4z0r - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/Er4z0r - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": "Er4z0r - Made with AMP Config Generator"
 }
