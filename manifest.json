@@ -1,9 +1,6 @@
 {
   "id": "riftbreaker-template",
-  "authors": [
-    "AMP Community Template"
-  ],
-  "origin": "https://github.com/example/AMPTemplates",
-  "url": "https://github.com/example/AMPTemplates",
+  "authors": ["Er4z0r"],
+  "url": "https://github.com/Er4z0r321/amp-templates",
   "prefix": "TheRiftbreakerDedicatedServer"
 }
